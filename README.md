@@ -4,9 +4,9 @@ Custom script to use both Telegram's and CoinMarketCap's APIs to get the latest 
 # Install Guide
 To use this script you'll need some programs installed and accounts in both Telegram and CoinMarketCap.
 
-To get a ```Telegram``` API token follow this instructions -> https://core.telegram.org/bots
+To get a ```Telegram``` API token follow this instructions -> [telegram.org](https://core.telegram.org/bots)
 
-To get a ```CoinMarketCap``` API token follow this instructions -> https://coinmarketcap.com/api/documentation/v1/#section/Introduction
+To get a ```CoinMarketCap``` API token follow this instructions -> [coinmarketcap.com](https://coinmarketcap.com/api/documentation/v1/#section/Introduction)
 
 You also need to have installed ```nodejs``` and ```npm```.
 
