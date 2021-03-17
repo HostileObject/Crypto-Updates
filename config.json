@@ -1,0 +1,7 @@
+{
+	"telegramBotToken": "",
+	"coinMarketCapAPIToken": "",
+	"cryptoCurrencyList": ["BTC", "ETH", "BNB"],
+	"telegramChatId": "",
+	"convertToFiat": ["USD", "$"]
+}
