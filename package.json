@@ -1,0 +1,23 @@
+{
+  "name": "crypto-updates",
+  "version": "1.0.0",
+  "description": "Custom script to use both Telegram's and CoinMarketCap's APIs to get the latest Crypto-to-FIAT prices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HostileObject/Crypto-Updates.git"
+  },
+  "author": "HostileObject",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HostileObject/Crypto-Updates/issues"
+  },
+  "homepage": "https://github.com/HostileObject/Crypto-Updates#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0",
+    "request-promise": "^4.2.6"
+  }
+}
