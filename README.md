@@ -28,7 +28,7 @@ A complete config.json may look similar to this:
 You may consult CoinMarketsCap's documentation to see the avaiable [FIAT](https://coinmarketcap.com/api/documentation/v1/#section/Standards-and-Conventions) and [Crypto](https://coinmarketcap.com/) currencies.
 
 Now you can execute the index.js script with the command ```node .``` and you should get a message from the Telegram bot.
-Remember to [Start your Telegram Bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot) before uing the script.
+Remember to [Start your Telegram Bot](https://core.telegram.org/bots#3-how-do-i-create-a-bot) before using the script.
 
 # Automate the Script
 You can automate the script in different ways, but the most easy and straightforward is to add it to you [crontab](https://linux.die.net/man/5/crontab) file.
